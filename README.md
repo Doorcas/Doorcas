@@ -2,11 +2,11 @@
 I'm Dorcas,
 Who I am: A Tech & Innovation Enthusiast.
 
-I'm currently working on: translating tech wholly into it's main fit: Innovation, and helping others discover their purpose in Tech also.
+💙I'm currently working on: translating tech wholly into it's main fit: Innovation, and helping others discover their purpose in Tech also.
 
-What I use: React.js, Typescript, Python, Django
+🛠️Tools I use: React.js, Typescript, Python, Django
 
-I'm willing to collaborate on Projects that solve real word problems, pushing the boundaries of Tech
+🤝I'm willing to collaborate on Projects that solve real word problems, even further ñushing the boundaries of Tech.💙
 <!--
 **Doorcas/Doorcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
