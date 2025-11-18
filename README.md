@@ -6,7 +6,7 @@ Who I am: A Tech & Innovation Enthusiast.
 
 🛠️Tools I use: React.js, Typescript, Python, Django
 
-🤝I'm willing to collaborate on Projects that solve real word problems, even further ñushing the boundaries of Tech.💙
+🤝I'm willing to collaborate on Projects that solve real word problems, even further pushing the boundaries of Tech.💙
 <!--
 **Doorcas/Doorcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
