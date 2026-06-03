@@ -1,6 +1,8 @@
 # Hi there, I'm Dorcas Aladejebi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Product+Builder;Web+Developer;Problem+Solver;Neuroscience+%C3%97+Behavioral+Economics;Building+Tech+That+Matters" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&pause=800&color=00FFF7&center=true&vCenter=true&width=1000&lines=STAR'SYNTAX;AI%2FML+Engineer;Building+Impactful+Tech;System+Thinker+%7C+Builder+%7C+Creator" />
+</p>
 
 ---
 
@@ -17,7 +19,7 @@ I work at the intersection of **Artificial Intelligence, Software Engineering, P
 ## 🚀 What I Do
 
 * 🤖 AI/ML Engineering & Predictive Systems
-* 🌐 Full-Stack Web Development (React, TypeScript, Python)
+* 🌐 Frontendd Web Development (React, TypeScript, Python)
 * 📦 Product Building & System Design
 * 🧠 Exploring Neuroscience × Behavioral Economics
 * 🚀 Hackathon Competitions & Innovation Challenges
@@ -98,14 +100,6 @@ I work at the intersection of **Artificial Intelligence, Software Engineering, P
 
 Always building. Always learning. Always exploring what’s next.
 
----
-
-
-💙I'm currently working on: translating tech wholly into it's main fit: Innovation, and helping others discover their purpose in Tech also.
-
-🛠️Tools I use: React.js, Typescript, Python, Google collab.
-
-🤝I'm willing to collaborate on Projects that solve real word problems, even further pushing the boundaries of Tech.💙
 <!--
 **Doorcas/Doorcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
