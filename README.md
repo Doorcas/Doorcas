@@ -1,7 +1,8 @@
 # Hi there, I'm Dorcas Aladejebi 👋
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&pause=800&color=00FFF7&center=true&vCenter=true&width=1000&lines=STAR'SYNTAX;AI%2FML+Engineer;Building+Impactful+Tech;System+Thinker+%7C+Builder+%7C+Creator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=60&pause=800&color=00FFF7&center=true&vCenter=true&width=1000&lines=STAR'SYNTAX;AI%2FML+Engineer;Building+Impactful+Tech;System+Thinker+%7C+Builder+%7C+Creator" />
 </p>
 
 ---
