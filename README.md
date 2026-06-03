@@ -1,10 +1,10 @@
-## Hi there 👋
+## Dorcas Aladejebi 👋
 I'm Dorcas,
-Who I am: I am a Product Manager and Frontend Engineer who believes technology is a tool, not an end in itself. I lead projects from concept to execution, combining insights from multiple fields to solve real-world problems and build impactful products. I approach development and design strategically, integrating creativity, technical skills, and business thinking to deliver solutions that matter. Whether it’s crafting elegant user interfaces, architecting scalable systems, or translating complex ideas into actionable products, I aim to make technology serve people and ideas effectively.
+Who I am: I am an AI/ML Engineer who believes technology is a tool, not an end in itself. I lead projects from concept to execution, combining insights from multiple fields to solve real-world problems and build impactful products. I approach development and design strategically, integrating creativity, technical skills, and business thinking to deliver solutions that matter. Whether it’s crafting elegant user interfaces, architecting scalable systems, or translating complex ideas into actionable products, I aim to make technology serve people and ideas effectively.
 
 💙I'm currently working on: translating tech wholly into it's main fit: Innovation, and helping others discover their purpose in Tech also.
 
-🛠️Tools I use: React.js, Typescript, Python, ClickUp for Project Management.
+🛠️Tools I use: React.js, Typescript, Python, Google collab.
 
 🤝I'm willing to collaborate on Projects that solve real word problems, even further pushing the boundaries of Tech.💙
 <!--
