@@ -54,8 +54,8 @@ I work at the intersection of **Artificial Intelligence, Software Engineering, P
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Doorcas&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Doorcas&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=starsyntaxx&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=starsyntaxx&theme=tokyonight" />
 </p>
 
 ---
